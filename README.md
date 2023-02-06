@@ -1,5 +1,4 @@
 <h1>Cách sử dụng</h1>
-<h1>How to use</h1>
 <br/>
 Mở folder này trong VSCode hoặc IDE hỗ trợ python và nhập dòng lệnh sau vào TERMINAL: 
 pip install -r requirements.txt
@@ -7,6 +6,7 @@ pip install -r requirements.txt
 Cài Chrome Webdriver, giải nén ra và đặt file .exe vào folder này
 <br/>
 Chạy câu lênh sau trong terminal để chạy chương trình:
+<br/>
 python main.py
 <br/>
 hoặc
