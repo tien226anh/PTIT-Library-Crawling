@@ -8,8 +8,6 @@ from time import sleep
 
 import urllib.request
 
-import bs4
-
 # No close browser when finish test and full-screen browser
 chrome_options = Options()
 chrome_options.add_experimental_option("detach", True)
