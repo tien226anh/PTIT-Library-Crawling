@@ -22,8 +22,6 @@ chrome_options.add_argument("--start-maximized")
 # driver.get("http://dlib.ptit.edu.vn/flowpaper/simple_document.php?subfolder=30/16/21/&doc=30162126041710350305223424440233135951&bitsid=dd544e34-2a5e-4c19-841f-38f79db31fad&uid=869e977e-9ed5-4588-8f4c-f169046ea281")
 
 def login():
-    # username='b20dccn005'
-    # password='b20dccn005'
     # inputUsername = driver.find_element_by_id("tlogin_email")
     inputUsername = driver.find_element(By.ID, "tlogin_email")
     inputUsername.send_keys(username)
