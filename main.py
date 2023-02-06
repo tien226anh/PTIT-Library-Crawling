@@ -6,7 +6,6 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.common.actions.wheel_input import ScrollOrigin
 from time import sleep
 
-import pyperclip
 import urllib.request
 
 import bs4
